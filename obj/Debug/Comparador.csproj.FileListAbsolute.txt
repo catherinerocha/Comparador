@@ -1,0 +1,11 @@
+C:\repository\Comparador\bin\Debug\Comparador.exe.config
+C:\repository\Comparador\bin\Debug\Comparador.exe
+C:\repository\Comparador\bin\Debug\Comparador.pdb
+C:\repository\Comparador\obj\Debug\Comparador.csprojAssemblyReference.cache
+C:\repository\Comparador\obj\Debug\Comparador.Form1.resources
+C:\repository\Comparador\obj\Debug\Comparador.Properties.Resources.resources
+C:\repository\Comparador\obj\Debug\Comparador.csproj.GenerateResource.cache
+C:\repository\Comparador\obj\Debug\Comparador.csproj.CoreCompileInputs.cache
+C:\repository\Comparador\obj\Debug\Comparador.exe
+C:\repository\Comparador\obj\Debug\Comparador.pdb
+C:\repository\Comparador\obj\Debug\Comparador.ComparedResponse.resources
